@@ -1,3 +1,3 @@
 # apiary
 
-There are 2 branches. The master branch is there just in case, this is the default branch where the work is being done.
+The purpose of the master branch is as a blank backup of the project, this is the default branch where the work is being done.
